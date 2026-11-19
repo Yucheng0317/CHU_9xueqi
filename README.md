@@ -10,7 +10,7 @@
 
 提取码均为：ycyc
 
-【[Github Releases](https://github.com/Yucheng0317/CHU_9xueqi/releases)】 · 【[百度云盘](https://pan.baidu.com/s/1iLi1DpznDcrBIQresdHzAg?pwd=ycyc)】 · [【蓝奏云】](https://xiaolaoshu.lanzouc.com/b0po0vheh) · 【[腾讯微云](https://share.weiyun.com/Bz01BCDt)】
+【[Github Releases](https://github.com/Yucheng0317/CHU_9xueqi/releases)】 · 【[百度云盘](https://pan.baidu.com/s/1iLi1DpznDcrBIQresdHzAg?pwd=ycyc)】 · 【[蓝奏云](https://xiaolaoshu.lanzouc.com/b0po0vheh)】 · 【[腾讯微云](https://share.weiyun.com/Bz01BCDt)】
 
 > 从蓝奏云下载的，请解压后使用。
 > 
